@@ -235,6 +235,7 @@
       "mt-n3",
       "mx-2",
       "mx-auto",
+      "mx-xl-auto",
       "my-0",
       "my-3",
       "nav",
@@ -392,6 +393,10 @@
       "diagrams-support",
       "documentation-pages",
       "doks-docs-nav",
+      "dəyişənlər-və-tip-müəyyənləşdirmə",
+      "dəyişənlərin-dəyərinin-dəyişdirilməsi",
+      "dəyişənlərin-elan-edilməsi",
+      "dəyişənlərin-istifadə-məqsədləri",
       "emoji",
       "enable",
       "enoent",
@@ -570,8 +575,11 @@
       "update-purgecss",
       "update-styles",
       "upgrade-doks",
+      "values",
+      "variables",
       "video",
       "windows-üçün-tərtibat",
+      "əsas-məlumat-növləri",
       "əsas-əmrlər-və-müddəalar"
     ]
   }
