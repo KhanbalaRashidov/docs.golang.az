@@ -1,9 +1,9 @@
 ---
 title: "Golang Azerbaijan Users Community"
-description: "Connecting Go Enthusiasts: Building, Sharing, and Innovating Together in the Golang Azerbaijan User Community"
-lead: "Connecting Go Enthusiasts: Building, Sharing, and Innovating Together in the Golang Azerbaijan User Community"
-date: 2024-09-25T11:58:54+02:00
-lastmod: 2024-09-25T11:58:54+02:00
+description: "Golang Azerbaijan Users Community"
+lead: "Golang Azerbaijan Users Community"
+date: 2023-09-07T16:33:54+02:00
+lastmod: 2023-09-07T16:33:54+02:00
 draft: false
 seo:
   title: "Golang Azerbaijan Users Community" # custom title (optional)

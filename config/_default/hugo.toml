@@ -1,4 +1,4 @@
-title = "Golang Azerbaijan Users Community"
+title = "Golang Azerbaijan"
 baseurl = "http://localhost/"
 canonifyURLs = false
 disableAliases = true
@@ -20,7 +20,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Thulite"
+copyRight = "Copyright (c) 2020-2024 Golang Azerbaijan"
 
 [build.buildStats]
   enable = true

@@ -1,36 +1,7 @@
-# [[docs]]
-#   name = "Prologue"
-#   weight = 10
-#   identifier = "prologue"
-#   url = "/docs/prologue/"
-
-# [[docs]]
-#   name = "Help"
-#   weight = 60
-#   identifier = "help"
-#   url = "/docs/help/"
-
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
-
-[[guide]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
-
-[[tutorial]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/start-here/getting-started/"
+  url = "/docs/start-here/golang/"
 # url = "/docs/1.0/start-here/getting-started/"
   weight = 10
 
@@ -39,17 +10,6 @@
   url = "/blog/"
   weight = 30
 
-[[main]]
-  name = "Discussions"
-  url = "https://github.com/thuliteio/doks/discussions"
-  post = '<svg xmlns="http://www.w3.org/2000/svg" class="ms-1 mb-1 icon icon-tabler icon-tabler-external-link" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6" /><path d="M11 13l9 -9" /><path d="M15 4h5v5" /></svg>'
-  weight = 40
-
-[[main]]
-  name = "Thulite"
-  url = "https://thulite.io"
-  post = '<svg xmlns="http://www.w3.org/2000/svg" class="ms-1 mb-1 icon icon-tabler icon-tabler-external-link" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6" /><path d="M11 13l9 -9" /><path d="M15 4h5v5" /></svg>'
-  weight = 50
 
 # [[main]]
 #   name = "Other docs"

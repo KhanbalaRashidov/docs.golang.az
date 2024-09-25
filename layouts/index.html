@@ -6,13 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}start-here/getting-started/" role="button">{{ i18n "get_started" }}</a>
-			{{ if site.Params.add_ons.carbonAds -}}
-      	{{ partial "main/carbon-ads" . }}
-			{{ end -}}
-			{{ if site.Params.add_ons.ethicalAds -}}
-        {{ partial "main/ethical-ads" . }}
-			{{ end -}}
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}start-here/golang/" role="button">{{ i18n "read_docs" }}</a>
     </div>
   </div>
 </section>
@@ -42,7 +36,7 @@
         </div>
         <div class="col-lg-5">
           <h2 class="h4">Join our community</h2>
-          <p>Get support, get involved, and join our community of Doks developers — it all happens on <a href="https://github.com/thuliteio/doks/discussions">Discussions</a>.</p>
+          <p>Get support, get involved, and join our community of Doks developers — it all happens on <a href="https://github.com/KhanbalaRashidov/golang.az/discussions">Discussions</a>.</p>
         </div>
       </div>
     </div>
@@ -102,17 +96,5 @@
   </div>
 </section>
 -->
-<section class="section section-credits container">
-  <div class="row justify-content-center text-center">
-    <div class="col-lg-6">
-      <p class="text-muted"><small>Brought to you by</small></p>
-      <div class="card bg-transparent border-0">
-        {{ partial "inline-svg" (dict "src" "svgs/logos/thulite-logo-semibold-wide.svg" "width" "160px" "height" "100%" "class" "svg-inline-custom svg-monochrome mx-auto mt-n2") }}
-      </div>
-      <p>Thulite is a web framework designed for speed, security, and SEO — all powered by Hugo and npm.</p>
-      <a href="https://thulite.io/">Learn about Thulite</a>
-    </div>
-  </div>
-</section>
 {{ end -}}
 {{ end }}
