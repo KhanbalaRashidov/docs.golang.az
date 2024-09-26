@@ -4,11 +4,6 @@
   weight = 10
 
 [[social]]
-  name = "Mastodon"
-  url = "https://fosstodon.org/@thulite"
-  weight = 20
-
-[[social]]
   name = "X"
   url = "https://x.com/thuliteio"
   weight = 30
