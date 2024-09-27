@@ -1,5 +1,5 @@
 ---
-title: "Built-ins"
+title: "Functions"
 description: ""
 summary: ""
 date: 2023-12-12T08:22:10+01:00

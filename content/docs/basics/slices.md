@@ -1,5 +1,5 @@
 ---
-title: "Dilim(Slices)"
+title: "Slices"
 description: ""
 summary: ""
 date: 2023-09-22T12:17:19+02:00
