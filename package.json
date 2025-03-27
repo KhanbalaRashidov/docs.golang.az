@@ -10,7 +10,7 @@
   },
   "scripts": {
     "create": "hugo new",
-    "dev": "hugo server --disableFastRender --noHTTPCache -disableLiveReload --bind=0.0.0.0 --watch --port 1515"",
+    "dev": "hugo server --disableFastRender --noHTTPCache --disableLiveReload --bind=0.0.0.0 --watch --port 1515"",
     "format": "prettier **/** -w -c",
     "build": "hugo --minify --gc",
     "preview": "vite preview --outDir public"
